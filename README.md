@@ -1,2 +1,35 @@
-# Banking-System
-A simple command-line based Banking System developed using Java and JDBC. This project allows users to register, log in, and perform basic banking operations such as deposit, withdraw, transfer money, and view transaction history. It uses MySQL for backend storage and JDBC for database connectivity.
+# 💰 Banking System in Java (JDBC + MySQL)
+
+This is a simple **Banking System** application developed using **Java** and **JDBC**. It simulates core banking operations such as account creation, balance inquiry, deposit, withdrawal, money transfer, and transaction history — all through the console.
+
+---
+
+## 📌 Features
+
+- User Registration and Login
+- Secure PIN/Password Storage (Hashing supported)
+- Account Number Generation
+- Deposit and Withdraw Money
+- Transfer Funds between Accounts
+- View Account Details and Transaction History
+- JDBC-based MySQL database integration
+- Basic transaction handling and validation
+
+---
+
+## 🧰 Technologies Used
+
+- Java (JDK 8+)
+- JDBC (Java Database Connectivity)
+- MySQL (Backend Database)
+- SQL (DDL + DML)
+- IntelliJ IDEA / Eclipse (recommended)
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+
